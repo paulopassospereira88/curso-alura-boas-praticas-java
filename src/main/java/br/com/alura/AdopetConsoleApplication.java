@@ -3,12 +3,6 @@ package br.com.alura;
 import br.com.alura.client.ClientHttpConfiguration;
 import br.com.alura.service.AbrigoService;
 import br.com.alura.service.PetService;
-import com.google.gson.JsonObject;
-import java.io.IOException;
-import java.net.URI;
-import java.net.http.HttpClient;
-import java.net.http.HttpRequest;
-import java.net.http.HttpResponse;
 import java.util.Scanner;
 
 public class AdopetConsoleApplication {
